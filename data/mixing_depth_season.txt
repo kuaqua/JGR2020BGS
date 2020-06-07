@@ -1,0 +1,7 @@
+season	mixing_depth
+spring	0.16636746
+summer	0.088644457
+autumn	0.22252516
+winter	0.25588552
+summer_typhoon	0.13416492
+autumn_typhoon	0.119578008
