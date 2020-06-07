@@ -1,0 +1,5 @@
+season	NEP
+spring	114.3083722
+summer	33.67911834
+autumn	-640.8304995
+winter	-56.32271871

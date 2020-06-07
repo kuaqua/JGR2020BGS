@@ -1,0 +1,7 @@
+season	surface	bottom	river
+spring	3.115	4.695	3.394
+summer	2.791	7.493	3.737
+autumn	2.456	4.304	2.516
+winter	2.572	3.034	2.477
+summer_typhoon	2.334	3.020	2.680
+autumn_typhoon	1.926	2.748	1.747

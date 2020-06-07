@@ -1,0 +1,7 @@
+season	BruntV
+spring	0.011464495
+summer	0.013969641
+autumn	0.006077489
+winter	0.007113153
+summer_typhoon	0.010881644
+autumn_typhoon	0.010879194
