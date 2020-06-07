@@ -1,8 +1,0 @@
-season	intrusion_depth
-spring	0.605
-summer	0.758
-autumn	0.711
-winter	0.241
-summer_typhoon	1.000
-autumn_typhoon	1.000
-
